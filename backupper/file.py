@@ -6,6 +6,7 @@ import os
 import py7zr
 from py7zr.exceptions import ArchiveError
 
+
 def parse_folder(folder: str) -> str:
     """
     Função para corrigir possíveis problemas com formato de nome de pasta
