@@ -2,7 +2,6 @@
 Módulo para processar os dados e gerar o arquivo final
 """
 
-
 from .configuration import load as config_load
 from .file import create_archive
 
