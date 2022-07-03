@@ -6,4 +6,22 @@
 
 Utilitário para criar arquivos de backups através de um arquivo de configuração
 
+## Instalação
+
+Antes de executar pela primeira vez são necessárias algumas configurações:
+
+### Instalar o python 3.9 ou superior (Na maioria dos Linux não é necessário):
+
+https://www.python.org/downloads/
+
+### Instalar o pip:
+
+https://pip.pypa.io/en/stable/installation/
+
+### Instalar as dependências:
+
+pip install -r requirements.txt
+
+## Execução
+
 Para executar crie o arquivo "7b.conf.json" seguindo o exemplo "7b.conf.example.json" e execute o comando "python3 backupper.py".
