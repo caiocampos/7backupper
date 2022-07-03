@@ -10,7 +10,7 @@ Utilitário para criar arquivos de backups através de um arquivo de configuraç
 
 Antes de executar pela primeira vez são necessárias algumas configurações:
 
-### Instalar o python 3.9 ou superior (Na maioria dos Linux não é necessário):
+### Instalar o python 3.9 ou superior (Não é necessário em muitas distribuições Linux):
 
 https://www.python.org/downloads/
 
