@@ -4,7 +4,7 @@ Brotli==1.0.9
 dill==0.3.6
 inflate64==0.3.0
 isort==5.10.1
-lazy-object-proxy==1.7.1
+lazy-object-proxy==1.8.0
 mccabe==0.7.0
 multivolumefile==0.2.3
 platformdirs==2.5.2
