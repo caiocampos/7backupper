@@ -12,7 +12,7 @@ psutil==5.9.4
 py7zr==0.20.2
 pybcj==1.0.1
 pycodestyle==2.10.0
-pycryptodomex==3.15.0
+pycryptodomex==3.16.0
 pylint==2.15.6
 pyppmd==1.0.0
 pyzstd==0.15.3
