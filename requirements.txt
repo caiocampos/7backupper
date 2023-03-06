@@ -1,5 +1,5 @@
 astroid==2.13.3
-autopep8==2.0.1
+autopep8==2.0.2
 Brotli==1.0.9
 dill==0.3.6
 inflate64==0.3.1
