@@ -15,7 +15,7 @@ pycodestyle==2.10.0
 pycryptodomex==3.17
 pylint==2.15.10
 pyppmd==1.0.0
-pyzstd==0.15.4
+pyzstd==0.15.6
 texttable==1.6.7
 toml==0.10.2
 tomli==2.0.1
