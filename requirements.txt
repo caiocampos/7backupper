@@ -16,7 +16,7 @@ pycryptodomex==3.19.0
 pylint==3.0.0
 pyppmd==1.0.0
 pyzstd==0.15.9
-texttable==1.6.7
+texttable==1.7.0
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.12.1
