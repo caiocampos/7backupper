@@ -14,7 +14,7 @@ pybcj==1.0.1
 pycodestyle==2.11.1
 pycryptodomex==3.19.0
 pylint==3.0.2
-pyppmd==1.0.0
+pyppmd==1.1.0
 pyzstd==0.15.9
 texttable==1.7.0
 toml==0.10.2
