@@ -19,6 +19,6 @@ pyzstd==0.15.9
 texttable==1.7.0
 toml==0.10.2
 tomli==2.0.1
-tomlkit==0.12.3
+tomlkit==0.12.4
 typing_extensions==4.9.0
 wrapt==1.16.0
