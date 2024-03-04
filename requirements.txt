@@ -9,7 +9,7 @@ mccabe==0.7.0
 multivolumefile==0.2.3
 platformdirs==4.1.0
 psutil==5.9.8
-py7zr==0.20.8
+py7zr==0.21.0
 pybcj==1.0.2
 pycodestyle==2.11.1
 pycryptodomex==3.20.0
