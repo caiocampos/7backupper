@@ -13,7 +13,7 @@ py7zr==0.21.0
 pybcj==1.0.2
 pycodestyle==2.11.1
 pycryptodomex==3.20.0
-pylint==3.0.3
+pylint==3.2.6
 pyppmd==1.1.0
 pyzstd==0.15.9
 texttable==1.7.0
