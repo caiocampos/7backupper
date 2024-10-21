@@ -6,6 +6,7 @@ from .process import process
 
 CONF_FILE = "7b.conf.json"
 
+
 def main() -> int:
     process(CONF_FILE)
     return 0
