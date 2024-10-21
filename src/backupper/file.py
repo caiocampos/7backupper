@@ -31,8 +31,8 @@ def create_archive(input_folder: str, output_folder: str, output_file: str) -> s
     full_path = parse_folder(output_folder) + output_file
 
     try:
-        with py7zr.SevenZipFile(full_path, 'w') as archive:
-            archive.writeall(input_folder, 'base')
+        with py7zr.SevenZipFile(full_path, "w") as archive:
+            archive.writeall(input_folder, "base")
 
             return full_path
 

@@ -53,9 +53,11 @@ def parse(config_json: dict) -> Conf:
 
     for file in config_json.get("files") or []:
         files.append(
-            FileConf(file.get("input_folder") or "",
-                     file.get("output_folder") or "",
-                     file.get("output_file") or "")
+            FileConf(
+                file.get("input_folder") or "",
+                file.get("output_folder") or "",
+                file.get("output_file") or "",
+            )
         )
 
     return Conf(files)
