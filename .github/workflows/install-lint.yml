@@ -1,0 +1,18 @@
+name: Pylint
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12", "3.13"]
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install the latest version of rye
+      uses: eifinger/setup-rye@v4
+    - name: Sync dependencies
+      run: rye sync
+    - name: Lint
+      run: rye lint
