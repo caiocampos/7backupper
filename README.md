@@ -8,14 +8,14 @@ Utilitário para criar arquivos de backups através de um arquivo de configuraç
 
 Antes de executar pela primeira vez são necessárias algumas configurações:
 
-### Instalar o rye:
+### Instalar o uv:
 
-https://rye.astral.sh/
+https://docs.astral.sh/uv/
 
 ### Instalar as dependências:
 
-rye sync
+uv sync
 
 ## Execução
 
-Para executar crie o arquivo "7b.conf.json" seguindo o exemplo "7b.conf.example.json" e execute o comando "rye run backupper".
+Para executar crie o arquivo "7b.conf.json" seguindo o exemplo "7b.conf.example.json" e execute o comando "uv run backupper".
