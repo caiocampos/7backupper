@@ -3,6 +3,7 @@ Módulo para processamento dos arquivos de entrada e saída
 """
 
 import os
+
 import py7zr
 from py7zr.exceptions import ArchiveError
 
